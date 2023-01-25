@@ -29,3 +29,13 @@
     padding: 10px;
     opacity: 0.9;
 }
+
+.mission {
+    display: flex;
+    justify-content: center;
+}
+
+.background-image-one {
+    height: 700px;
+    width: auto;
+}

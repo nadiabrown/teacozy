@@ -37,5 +37,12 @@
 
 .background-image-one {
     height: 700px;
-    width: auto;
+    width: 1200px;
+}
+
+.mission-statement {
+    position: absolute;
+    top: 47%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }

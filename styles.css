@@ -70,3 +70,7 @@
     text-align: center;
     width: 300px;
 }
+
+.tea-selections {
+    display: flex;
+}

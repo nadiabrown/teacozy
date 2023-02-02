@@ -7,7 +7,7 @@
     background-color: black;
     height: 69px;
     border-bottom: 1px solid seashell;
-    position: fixed;
+    position: absolute;
     width: 100%;
     display: flex;
     justify-content: space-between;

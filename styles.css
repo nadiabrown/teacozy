@@ -78,3 +78,15 @@
     max-width: 1000px;
     margin: 0 auto;
 }
+
+.tea-of-month-header {
+    font-family: Helvetica;
+    font-size: 22px;
+    color: seashell;
+    opacity: 0.9;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    line-height: 50px;
+}

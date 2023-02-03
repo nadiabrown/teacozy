@@ -96,3 +96,8 @@
     height: 500px;
     width: 1200px;
 }
+
+.location-section {
+    display: flex;
+    justify-content: center;
+}

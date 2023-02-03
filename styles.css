@@ -99,3 +99,9 @@
     background-position: center;
     margin: 0 auto;
 }
+
+.location-text {
+    font-family: Helvetica;
+    color: seashell;
+    font-size: 22px;
+}

@@ -92,21 +92,3 @@
     line-height: 50px;
 }
 
-.location-image {
-    height: 500px;
-    width: 1200px;
-    position: relative;
-}
-
-.location-section {
-    display: flex;
-    justify-content: center;
-}
-
-.location-content {
-    position: absolute;
-    font-family: Helvetica;
-    color: seashell;
-    opacity: 0.9;
-    font-size: 22px;
-}

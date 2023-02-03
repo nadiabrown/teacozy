@@ -95,9 +95,14 @@
 .location-image {
     height: 500px;
     width: 1200px;
+    position: relative;
 }
 
 .location-section {
     display: flex;
     justify-content: center;
+}
+
+.location-content {
+    position: absolute;
 }

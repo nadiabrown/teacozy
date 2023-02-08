@@ -113,18 +113,21 @@
     background-color: black;
     height: 300px;
     width: 300px;
+    text-align: center;
 }
 
 .location-two {
     background-color: black;
     height: 300px;
     width: 300px;
+    text-align: center;
 }
 
 .location-three {
     background-color: black;
     height: 300px;
     width: 300px;
+    text-align: center;
 }
 
 .locations {

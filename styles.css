@@ -148,3 +148,8 @@
     text-align: center;
     padding-top: 50px;
 }
+
+.footer-info {
+    font-family: Helvetica;
+    color: seashell;
+}

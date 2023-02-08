@@ -105,4 +105,24 @@
     color: seashell;
     font-size: 22px;
     background-color: transparent;
+    position: absolute;
+    position: absolute;
+}
+
+.location-one {
+    background-color: black;
+    height: 300px;
+    width: 300px;
+}
+
+.location-two {
+    background-color: black;
+    height: 300px;
+    width: 300px;
+}
+
+.location-three {
+    background-color: black;
+    height: 300px;
+    width: 300px;
 }

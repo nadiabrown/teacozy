@@ -159,4 +159,6 @@
 .footer-header {
     font-size: 30px;
     font-weight: bold;
+    padding-bottom: 50px;
+    padding-top: 15px;
 }

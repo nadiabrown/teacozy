@@ -142,3 +142,8 @@
     background-color: transparent;
     gap: 40px;
 }
+
+.location-header {
+    background-color: transparent;
+    text-align: center;
+}

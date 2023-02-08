@@ -164,3 +164,9 @@
     padding-bottom: 35px;
     padding-top: 15px;
 }
+
+.copyright {
+    font-family: Helvetica;
+    color: seashell;
+    font-size: 22px;
+}

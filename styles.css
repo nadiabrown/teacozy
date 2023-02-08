@@ -136,7 +136,7 @@
 .locations {
     display: flex;
     width: 1200px;
-    height: 500px;
+    height: 400px;
     justify-content: center;
     align-items: center;
     background-color: transparent;
